@@ -5,7 +5,6 @@ import flowers.bean.ifaces.Flower;
 import java.util.ArrayList;
 import java.util.List;
 
-
 public class Bouquet {
     private List<Flower> flowers;
     private double totalCost;
